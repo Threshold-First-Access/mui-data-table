@@ -15,7 +15,7 @@ and flexible.
 
 ## Demo
 
-[demo](https://blueyedgeek.github.io/mui-data-table/build/)
+[demo](https://andela-cdaniel.github.io/mui-data-table/build)
 
 ## Features
 
@@ -79,7 +79,6 @@ const config = {
       return `${data.name} is in a ${data.mood} mood.`;
     }},
   ]
-  viewSearchBarOnload: true // set to true or false. Default it is set to false. Shows the search bar or not depending on the value set
 };
 
 class App extends React.Component {
